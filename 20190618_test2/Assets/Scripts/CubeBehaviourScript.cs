@@ -7,8 +7,8 @@ public class CubeBehaviourScript : MonoBehaviour
 
     private bool _move = false;
 
-    public float _R = 2;
-    public float _T = 5;
+    public float _R = 2;    // 半径[m]
+    public float _T = 5;    // 周期[min]
 
     // Start is called before the first frame update
     void Start()
